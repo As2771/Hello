@@ -1,0 +1,4 @@
+# to print Hello world in python we have to write the following code
+print "Hello World"
+""" double quotes are used when we have to print string
+    (#) is used to show 1 line comment """
