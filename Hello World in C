@@ -1,0 +1,3 @@
+// to print Hello World in c we have to type the following code
+printf("Hello World\n");
+// \n is used to start a new line
