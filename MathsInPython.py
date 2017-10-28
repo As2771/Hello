@@ -29,5 +29,6 @@ print(sub)
 #Printing division directly is also possible:
 print(sub / 2)
 print(sub)#But it doesn't set the variable permanently
-
+sub = 10**2 # Powers is also an option
+print(sub)
 # There's no requirement to print afterwards, that is done here to show how the numbers behave
