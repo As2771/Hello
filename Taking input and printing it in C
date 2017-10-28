@@ -1,0 +1,8 @@
+// to take input we use the scanf and to print we use the syntax printf
+#include<stdio.h>
+int main()
+{
+int x;
+scanf("%d\n",&x);
+printf("%d",x);
+}
