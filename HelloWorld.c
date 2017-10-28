@@ -8,5 +8,7 @@ int main() {
 	printf("\n");
 	puts("Hello World!");
 	puts("puts() gives you new line");
+	// Remember, printf doesnt give you new line
+	// But puts, give you new line
 	return 1;
 }
