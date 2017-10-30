@@ -1,0 +1,6 @@
+a = int(raw_input())
+b = int(raw_input())
+a+b                                        # prints sum
+a-b                                        # prints difference
+a*b                                        # prints multiplication
+a**b                                       # results in a^b
