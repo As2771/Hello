@@ -1,0 +1,3 @@
+# to print a string we use the following syntax
+print "Hello World" # it should be in double quotes in case of strings
+#(hash is used to show comments)
